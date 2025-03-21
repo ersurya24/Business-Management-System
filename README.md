@@ -26,7 +26,7 @@
 
 ## Installation :
 
-1. Clone the repository : $ git clone (https://github.com/ritesh-18/Business-MGMT-System) <br>
+1. Clone the repository : $ git clone (https://github.com/ersurya24/Business-Management-System/edit/main/README.md) <br>
            OR
    Download the zip
 
